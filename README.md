@@ -42,5 +42,7 @@ Run the script to analyze clusters and get personalized recommendations.
 3. **Enter `README.md` as the filename**  
 4. **Paste the above content** and save it by clicking "Commit new file"  
 
-Your project is now **ready for contributions!** 🎉 Let me know if you need any tweaks! 🚀
+---
+### 💙 Join Us in Revolutionizing Women’s Healthcare!
+This project is a step toward personalized, data-driven healthcare for women with PCOS. If you're passionate about AI, ML, or healthcare innovation, we’d love to have you on board! Let’s build something impactful together. 🚀
 
